@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+Host: https://kenneth2light-bot.github.io
+Sitemap: https://kenneth2light-bot.github.io/sora-siam/sitemap.xml
