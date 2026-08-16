@@ -10,5 +10,5 @@ Allow: /
 User-Agent: GPTBot
 Allow: /
 
-Host: https://kenneth2light-bot.github.io
-Sitemap: https://kenneth2light-bot.github.io/sora-siam/sitemap.xml
+Host: https://sorasiam.com
+Sitemap: https://sorasiam.com/sitemap.xml
